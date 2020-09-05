@@ -9,5 +9,5 @@
 | Build | npm run build |
 
 <h4>REFERENCES</h4>
-1. [https://talkjs.com/docs/Getting_Started/Frameworks/React.html] <br/>
-2. [https://www.npmjs.com/package/talkjs]
+1. https://talkjs.com/docs/Getting_Started/Frameworks/React.html <br/>
+2. https://www.npmjs.com/package/talkjs
