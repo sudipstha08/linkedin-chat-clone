@@ -1,0 +1,122 @@
+.users {
+  display: flex;
+  width: 55%;
+  margin: 0 auto;
+  justify-content: space-around;
+  margin-top: 70px;
+}
+.current-user-container {
+  width: 28%;
+}
+
+.current-user-container>div {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+}
+
+.current-user-info {
+  text-align: center;
+}
+
+.current-user-info h3 {
+  margin-bottom: 10px;
+}
+
+.current-user-info p {
+  margin-bottom: 0;
+}
+
+.current-user-picture img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.users-container {
+  background-color: #ffffff;
+  width: 65%;
+  padding: 20px 0;
+}
+
+.user {
+  display: flex;
+  margin-bottom: 20px;
+  position: relative;
+  border-bottom: 1px solid #e6e9ec;
+}
+
+.user:last-of-type {
+  border: 0;
+}
+
+.user::after {
+  content: '';
+  width: 92px;
+  height: 2px;
+  background: #fff;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+}
+
+.user-picture img {
+  height: 72px;
+  width: 72px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.user-info {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.user-info-container {
+  display: flex;
+  width: 100%;
+}
+  
+.user-info h4 {
+  margin: 0;
+}
+
+.user-info p{
+  margin-top: 7px;
+  color: #676767;
+  font-size: 14px;
+}
+
+.user-action {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-action button {
+  background-color: transparent;
+  color: #0073b1;
+  border: 1px solid #0073b1;
+  height: 32px;
+  width: 92px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+// CHATBOX CONTAINER
+
+.chatbox-container {
+  position: absolute;
+  bottom: 0;
+  height: 400px;
+  right: 5%;
+  width: 300px;
+}
