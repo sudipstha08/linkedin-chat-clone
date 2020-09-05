@@ -1,12 +1,12 @@
 export const dummyUsers = [
   {
-    id: 2,
+    id: "1",
     name: "Kelvin Samson",
     email: "kelvin@sample.com",
     photoUrl: "https://randomuser.me/api/portraits/men/32.jpg",
     role: "Member",
-    info: "Product Designer at Facebook",
-    welcomeMessage: "Hey there! Love to chat :-)"
+    info: "Front end developer at Google",
+    welcomeMessage: "Hey there! what's up ? :-)"
   },
   {
     id: "3",
@@ -14,7 +14,7 @@ export const dummyUsers = [
     email: "annie@sample.com",
     photoUrl: "https://randomuser.me/api/portraits/women/65.jpg",
     role: "Member",
-    info: "Digital Marketer at Microsoft",
+    info: "Backend developer at Amazon",
     welcomeMessage: "Hey there! Love to chat :-)"
   },
   {
@@ -24,7 +24,7 @@ export const dummyUsers = [
     photoUrl: "https://randomuser.me/api/portraits/women/44.jpg",
     role: "Member",
     info: "Product Designer at Google",
-    welcomeMessage: "Hey there! Love to chat :-)"
+    welcomeMessage: "Hey there! How can i help you :-)"
   },
   {
     id: "5",
@@ -33,6 +33,6 @@ export const dummyUsers = [
     photoUrl: "https://pbs.twimg.com/profile_images/834493671785525249/XdLjsJX_.jpg",
     role: "Member",
     info: "Software Engineer at TalkJS",
-    welcomeMessage: "Hey there! Love to chat :-)"
+    welcomeMessage: "Hey there! Happy weekend :-)"
   },
 ]
