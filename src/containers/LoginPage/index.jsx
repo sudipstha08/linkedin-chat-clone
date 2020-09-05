@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from "react"
+import React, { useState } from "react"
+import Button from '../../components/Button'
 import './style.scss'
 
 const LoginPage = ({ history }) => {
@@ -36,7 +37,7 @@ const LoginPage = ({ history }) => {
     }
 
     localStorage.setItem("currentTalkjsUser", JSON.stringify(userData))
-    history.push("/mynetwork");
+    history.push("/my-network");
   }
     return (
       <div className="login-container">
@@ -63,10 +64,7 @@ const LoginPage = ({ history }) => {
               placeholder="Short Description"
               className="input textarea">
             </textarea>
-            <input type="submit"
-              className="button"
-              placeholder="submit"
-            />
+            <Button label="Submit"/>
           </form>
         </div>
       </div>
