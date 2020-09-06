@@ -14,6 +14,14 @@
 | REACT_APP_APP_ID | App Id |
 | REACT_APP_SECRET_KEY | Secret key  |
 
+<h4>How to get started</h4>
+1. Clone the repository.
+2. Create your TalkJS account form <a href="https://talkjs.com/">here</a>
+3. Copy your App Id and Secret key.
+4. Create .env file in your project root directory and put your App id and Secret key here.
+        REACT_APP_APP_ID=your_app_id
+5. Start your project.
+
 <h4>REFERENCES</h4>
 1. https://talkjs.com/docs/Getting_Started/Frameworks/React.html <br/>
 2. https://www.npmjs.com/package/talkjs
