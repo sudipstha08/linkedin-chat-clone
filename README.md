@@ -22,7 +22,6 @@
 as shown below.
 
        REACT_APP_APP_ID=your_app_id 
-<br/>
 5. Start your project.
 
 <h4>REFERENCES</h4>
