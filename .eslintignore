@@ -1,5 +1,2 @@
 #eslintignore
 /test
-app/components/AudioAnnotation
-app/test1
-
