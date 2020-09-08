@@ -18,7 +18,8 @@
 1. Clone the repository.<br/>
 2. Create your TalkJS account form <a href="https://talkjs.com/">here</a><br/>
 3. Copy your App Id and Secret key.<br/>
-4. Create .env file in your project root directory and put your App id and Secret key here.
+4. Create .env file in your project root directory and put your App id and Secret key 
+as shown below.
 
        REACT_APP_APP_ID=your_app_id 
 <br/>
