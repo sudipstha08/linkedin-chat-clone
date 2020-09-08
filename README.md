@@ -7,6 +7,8 @@
 | Lint | npm run lint |
 | Build | npm run build |
 
+<img src="https://i.ibb.co/sH3nJ58/image.png" width="400px"/>
+
 <h4>Basic config for .env file</h4>
 
 | Environment variables | TalkJS a/c |
