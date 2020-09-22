@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/linkedin_chat_clone/static/css/main.8d60460f.chunk.css",
+    "main.js": "/linkedin_chat_clone/static/js/main.d5a9a9a9.chunk.js",
+    "main.js.map": "/linkedin_chat_clone/static/js/main.d5a9a9a9.chunk.js.map",
+    "runtime-main.js": "/linkedin_chat_clone/static/js/runtime-main.3096c588.js",
+    "runtime-main.js.map": "/linkedin_chat_clone/static/js/runtime-main.3096c588.js.map",
+    "static/js/2.7e9dc491.chunk.js": "/linkedin_chat_clone/static/js/2.7e9dc491.chunk.js",
+    "static/js/2.7e9dc491.chunk.js.map": "/linkedin_chat_clone/static/js/2.7e9dc491.chunk.js.map",
+    "index.html": "/linkedin_chat_clone/index.html",
+    "precache-manifest.c41d5d19be74507d3f8bc51e3e22f5cc.js": "/linkedin_chat_clone/precache-manifest.c41d5d19be74507d3f8bc51e3e22f5cc.js",
+    "service-worker.js": "/linkedin_chat_clone/service-worker.js",
+    "static/css/main.8d60460f.chunk.css.map": "/linkedin_chat_clone/static/css/main.8d60460f.chunk.css.map",
+    "static/js/2.7e9dc491.chunk.js.LICENSE.txt": "/linkedin_chat_clone/static/js/2.7e9dc491.chunk.js.LICENSE.txt",
+    "static/media/linkedin-logo.svg": "/linkedin_chat_clone/static/media/linkedin-logo.eef55fd4.svg",
+    "static/media/message.svg": "/linkedin_chat_clone/static/media/message.5cb81ce3.svg",
+    "static/media/network.svg": "/linkedin_chat_clone/static/media/network.80b510e5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3096c588.js",
+    "static/js/2.7e9dc491.chunk.js",
+    "static/css/main.8d60460f.chunk.css",
+    "static/js/main.d5a9a9a9.chunk.js"
+  ]
+}
