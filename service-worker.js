@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/linkedin_chat_clone/precache-manifest.c41d5d19be74507d3f8bc51e3e22f5cc.js"
+  "/linkedin_chat_clone/precache-manifest.739fc0e022f0c141821af0bf4c221f2a.js"
 );
 
 self.addEventListener('message', (event) => {
