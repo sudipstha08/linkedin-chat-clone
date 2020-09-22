@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18807087d349b777ab51e6d5627a3fb8",
+    "revision": "10f8cbd7511e775b914796a60454db67",
     "url": "/linkedin_chat_clone/index.html"
   },
   {
-    "revision": "98b6c868926f78750c81",
+    "revision": "876ef4d64321f798a8c1",
     "url": "/linkedin_chat_clone/static/css/main.8d60460f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/linkedin_chat_clone/static/js/2.7e9dc491.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98b6c868926f78750c81",
-    "url": "/linkedin_chat_clone/static/js/main.55ab2ebb.chunk.js"
+    "revision": "876ef4d64321f798a8c1",
+    "url": "/linkedin_chat_clone/static/js/main.dbd37250.chunk.js"
   },
   {
     "revision": "3837fe51ff492813f9d9",

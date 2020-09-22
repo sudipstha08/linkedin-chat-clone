@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/linkedin_chat_clone/static/css/main.8d60460f.chunk.css",
-    "main.js": "/linkedin_chat_clone/static/js/main.55ab2ebb.chunk.js",
-    "main.js.map": "/linkedin_chat_clone/static/js/main.55ab2ebb.chunk.js.map",
+    "main.js": "/linkedin_chat_clone/static/js/main.dbd37250.chunk.js",
+    "main.js.map": "/linkedin_chat_clone/static/js/main.dbd37250.chunk.js.map",
     "runtime-main.js": "/linkedin_chat_clone/static/js/runtime-main.3096c588.js",
     "runtime-main.js.map": "/linkedin_chat_clone/static/js/runtime-main.3096c588.js.map",
     "static/js/2.7e9dc491.chunk.js": "/linkedin_chat_clone/static/js/2.7e9dc491.chunk.js",
     "static/js/2.7e9dc491.chunk.js.map": "/linkedin_chat_clone/static/js/2.7e9dc491.chunk.js.map",
     "index.html": "/linkedin_chat_clone/index.html",
-    "precache-manifest.cba654dcc510e74647a93cffc0b813ed.js": "/linkedin_chat_clone/precache-manifest.cba654dcc510e74647a93cffc0b813ed.js",
+    "precache-manifest.739fc0e022f0c141821af0bf4c221f2a.js": "/linkedin_chat_clone/precache-manifest.739fc0e022f0c141821af0bf4c221f2a.js",
     "service-worker.js": "/linkedin_chat_clone/service-worker.js",
     "static/css/main.8d60460f.chunk.css.map": "/linkedin_chat_clone/static/css/main.8d60460f.chunk.css.map",
     "static/js/2.7e9dc491.chunk.js.LICENSE.txt": "/linkedin_chat_clone/static/js/2.7e9dc491.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.3096c588.js",
     "static/js/2.7e9dc491.chunk.js",
     "static/css/main.8d60460f.chunk.css",
-    "static/js/main.55ab2ebb.chunk.js"
+    "static/js/main.dbd37250.chunk.js"
   ]
 }
