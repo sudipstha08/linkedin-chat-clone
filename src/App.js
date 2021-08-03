@@ -1,11 +1,9 @@
 import React, { useEffect } from 'react'
 import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom'
-
 import HomePage from './containers/HomePage'
 import LoginPage from './containers/LoginPage'
 import MyNetworkPage from './containers/MyNetworkPage'
 import MessagingPage from './containers/MessagingPage'
-
 import './App.css';
 
 const App = () => {

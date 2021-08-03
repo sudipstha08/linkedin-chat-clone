@@ -28,7 +28,8 @@
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "netlify:deploy": "netlify deploy --dir=./build -p -m  \"$(git log -1 --pretty=%B)\""
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -48,6 +49,7 @@
   "devDependencies": {
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-react": "^7.20.6",
+    "netlify-cli": "^5.4.7",
     "prettier": "^2.1.1"
   }
 }
