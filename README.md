@@ -1,5 +1,6 @@
 ## LinkedIn Chat Clone using TalkJS
 ![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
+[![CircleCI](https://circleci.com/gh/sudipstha08/linkedin-chat-clone/tree/main.svg?style=svg)](https://circleci.com/gh/sudipstha08/linkedin-chat-clone/tree/main)
 ## Commands
 |    commands       |     description        |
 |-------------------|------------------------|
