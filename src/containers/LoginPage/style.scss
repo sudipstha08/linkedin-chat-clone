@@ -1,0 +1,30 @@
+.login-container {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.login-form {
+  background: #ffffff;
+  padding: 30px 10px;
+  width: 22%;
+  min-width: 250px;
+  max-width: 500px;
+}
+
+.input {
+  display: block;
+  height: 25px;
+  width: 90%;
+  margin: 0 auto 20px;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 4px;
+  border: 1px solid #8F7474;
+}
+
+.textarea {
+  height: 38px;
+}
