@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Linkedin-Chat-Clone
-LinkedIn Chat Clone using TalkJS
-<img src="https://i.ibb.co/sH3nJ58/image.png" />
-=======
 ## LinkedIn Chat Clone using TalkJS
 ![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
 ## Commands
@@ -42,4 +37,3 @@ as shown below.
 <h4>REFERENCES</h4>
 1. https://talkjs.com/docs/Getting_Started/Frameworks/React.html <br/>
 2. https://www.npmjs.com/package/talkjs
->>>>>>> ci/cd
