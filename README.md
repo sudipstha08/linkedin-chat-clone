@@ -25,7 +25,7 @@
 | `talk-js`     | manage messages, conversations and users               |
 
 <h4>How to get started ?</h4>
-```sh
+
 - Clone the repository.<br/>
 - Create your `TalkJS` account form <a href="https://talkjs.com/">here</a><br/>
 - Copy your `App Id` and `Secret key`.<br/>
@@ -33,7 +33,6 @@
 as shown below.
        REACT_APP_APP_ID=your_app_id 
 - Start your project.
-```
 
 <h4>REFERENCES</h4>
 1. https://talkjs.com/docs/Getting_Started/Frameworks/React.html <br/>
