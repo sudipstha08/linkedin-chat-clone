@@ -1,6 +1,7 @@
 ## LinkedIn Chat Clone using TalkJS
 ![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
 [![CircleCI](https://circleci.com/gh/sudipstha08/linkedin-chat-clone/tree/main.svg?style=svg)](https://circleci.com/gh/sudipstha08/linkedin-chat-clone/tree/main)
+
 ## Commands
 |    commands       |     description        |
 |-------------------|------------------------|
@@ -11,12 +12,12 @@
 
 <img src="https://i.ibb.co/sH3nJ58/image.png" width="700px"/>
 
-<h4>Basic config for `.env` file</h4>
+## Basic config for `.env` file
 
-| Env                   | TalkJS a/c |
+| Env Variables         | TalkJS a/c |
 | ----------------------| ---------- |
-| REACT_APP_APP_ID      | App Id     |
-| REACT_APP_SECRET_KEY  | Secret key |
+| `REACT_APP_APP_ID`    | App Id     |
+| `REACT_APP_SECRET_KEY`| Secret key |
 
 ## Tech Stacks
 | techs         |    description                                         |
