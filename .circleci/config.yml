@@ -25,9 +25,9 @@ jobs:
 
       - run: yarn build
 
-      - run: yarn netlify:deploy
+      # - run: yarn netlify:deploy
 
 workflows:
   orb-free-workflow:
     jobs:
-      - test
+      - build
