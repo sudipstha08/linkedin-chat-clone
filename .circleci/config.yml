@@ -21,6 +21,12 @@ jobs:
           paths:
             - ./node_modules 
 
+      - run:
+          name: Initializing the Environment variables
+          command: |
+            echo "REACT_APP_SECRET_KEY=$REACT_APP_SECRET_KEY
+            REACT_APP_APP_IDL=$REACT_APP_APP_ID" > .env 
+
       - run: npm run build
 
       - run: yarn netlify:deploy
