@@ -46,7 +46,7 @@ const LoginPage = ({ history }) => {
             <input type="text"
               name="name"
               onChange={handleChange}
-              placeholder="Name"
+              placeholder="Name..."
               className="input"
               required
             />
@@ -54,7 +54,7 @@ const LoginPage = ({ history }) => {
               type="email"
               name="email"
               onChange={handleChange}
-              placeholder="Email"
+              placeholder="Email..."
               className="input"
               required
             />
